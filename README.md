@@ -1,3 +1,7 @@
+## About dates of commits
+
+I submit the code and plots which I submitted in previous edition of this course (which took place in Nov 2014). Please keep it in mind when checking the dates of commits.
+
 ## Introduction
 
 This assignment uses data from
